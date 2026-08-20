@@ -4,7 +4,7 @@ public class Pozition implements Cloneable{
     int x,y;
 
     public Pozition(int x , int y){
-        this.x=x;
+        this.x=x.85
         this.y=y;
     }
 
