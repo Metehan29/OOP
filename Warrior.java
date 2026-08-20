@@ -11,6 +11,7 @@ public class Warrior extends Character{
 
     public void soundOfDeath(){
         System.out.println(name + " Said : Long live the homeland...");
+            System.out.println("And dont forget me!");
     }
 
 
