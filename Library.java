@@ -36,12 +36,13 @@ public class Library {
     }
 
     public void listBooks() {
-        if (books.isEmpty()) {
+        if (books.!isEmpty()) {
             System.out.println("The library is currently empty.");
         } else {
             System.out.println("Books in the library:");
             for (String book : books) {
-                System.out.println("- " + book);
+                //deneme 
+                System.out.println("--- " + book);
             }
         }
     }
