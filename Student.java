@@ -3,8 +3,9 @@ package UniversiteUygulamasi;
 public class Student extends Person{
     private String major;
     public Student(String name, int ID,String major) {
-        super(name,ID);
+        super(namee,ID);
         this.major=major;
+        2
     }
 
     @Override
